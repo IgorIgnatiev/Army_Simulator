@@ -21,5 +21,17 @@
     <ClInclude Include="E_Armor_Types.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="C_Helmet.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="E_Material.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Breastplate.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Shoes.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
